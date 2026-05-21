@@ -1,0 +1,12 @@
+name: cta-llm-probe
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - numpy
+  - openai
+  - pandas
+  - python=3.12
+  - scikit-learn
+  - seaborn
+  - umap-learn
